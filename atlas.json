@@ -1,0 +1,17 @@
+{
+  "files": [
+    "chapter.html"
+  ],
+  "theme" : "oreillymedia/atlas_trade_theme",
+  "formats" : {
+    "html": {
+      "javascripts" : [
+        "theme/html/javascripts/jquery.js",
+        "theme/html/javascripts/codemirror.js",
+        "theme/html/javascripts/coderunner.js"
+      ],
+      "stylesheets" : [
+      ]
+    }
+  }
+}
