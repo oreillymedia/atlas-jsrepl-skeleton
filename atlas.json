@@ -11,8 +11,8 @@
         "theme/html/javascripts/coderunner.js"
       ],
       "stylesheets" : [
-        "theme/html/stylesheets/book.css",
-        "theme/html/stylesheets/codemirror.css"
+        "theme/html/stylesheets/codemirror.css",
+        "theme/html/stylesheets/book.css"
       ]
     }
   }
